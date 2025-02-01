@@ -22,7 +22,7 @@ This project is a Resume Scanner that extracts information from resumes in PDF, 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/resume-scanner.git
+   git clone 
    cd resume-scanner
    ```
 
@@ -59,26 +59,3 @@ resume-scanner/
 ├── .gitignore         # Git ignore file
 └── README.md          # This file
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Creating the `requirements.txt` File
-
-To generate a `requirements.txt` file with the necessary dependencies, you can run:
-
-```sh
-pip freeze > requirements.txt
-```
-
-Make sure to include all required packages in your environment before running the above command.
-
-### Final Steps
-
-1. Create the `.gitignore` and `README.md` files in your project directory.
-2. Run `pip freeze > requirements.txt` to generate the `requirements.txt` file.
-3. Commit these files to your repository.
-
-Now, your project is ready to be shared, and others can easily set up and use your Resume Scanner.
